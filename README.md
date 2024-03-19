@@ -1,4 +1,4 @@
-## Olá eu sou Lucas Motta😁
+## Olá eu sou Lucas Motta! 😁
 
  <div>
    <a href="https://github.com/attoms">
